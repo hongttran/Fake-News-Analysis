@@ -2,7 +2,10 @@
 
 <b>Dataset: Phishing Websites Dataset (UCI)</b>
 
-
+<h3>Problem: Users fall for phishing scams via websites/emails</h3>
+<p>Goal: Build a binary classification model to flag phishing attempts
+</p>
+<p>Business value: Preventing phishing saves money, protects user trust, and helps threat-hunting teams</p>
 
 
 
