@@ -1,6 +1,6 @@
 <h1>Phishing Email Analysis</h1>
 
-<b>Dataset: Phishing Websites Dataset (UCI)</b>
+<b>Dataset: [Phishing Websites Dataset (UCI)](https://www.kaggle.com/datasets/ahmednour/website-phishing-data-set) </b>
 
 <h3>Problem: Users fall for phishing scams via websites/emails</h3>
 <p>Goal: Build a binary classification model to flag phishing attempts
